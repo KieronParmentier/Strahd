@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "4703b0c4c7cbba93",
+    "type": "split",
+    "children": [
+      {
+        "id": "45ff45f40f8031a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24e63809121750ea",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Connection board.canvas",
+                "viewState": {
+                  "x": 466.19582704181175,
+                  "y": -1302.5555062850965,
+                  "zoom": -1.5293195326115627
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7004edcbb7724063",
+    "type": "split",
+    "children": [
+      {
+        "id": "11184766b4707e8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "389c10ee16750d92",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "038be59e86f962b4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dd4855d06e2f3a0d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "c46f753408ddf858",
+    "type": "split",
+    "children": [
+      {
+        "id": "44d76afa22b18bf8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50ec98d0b9e61f96",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Connection board.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c271f99dc2f56abd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Connection board.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e96b57d41913fe16",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b4703224e5c2ed85",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Connection board.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "24e63809121750ea",
+  "lastOpenFiles": [
+    "Curse_of_Strahd-Board/README.md",
+    "Curse_of_Strahd-Board",
+    "img/~ichter.tmp",
+    "img/Richter.jpg.~tmp",
+    "img/Valenta.jpg.~tmp",
+    "img/~scher.tmp",
+    "img/Ireena.jpg",
+    "img/Ismark.jpg",
+    "img/~reena.tmp",
+    "img/Ireena.jpg.~tmp",
+    "img/Ireena2.jpg",
+    "img/Lydia.jpg",
+    "img/~tella.tmp",
+    "img/FullBoard.jpg",
+    "img/~he_Revenant.tmp",
+    "img/Barovia_Postcard.jpg",
+    "img/Strahd.jpg",
+    "img/Ludmilla.jpg",
+    "img/Anastrasya.jpg",
+    "img/Escher.jpg",
+    "Connection board.canvas",
+    "img"
+  ]
+}
