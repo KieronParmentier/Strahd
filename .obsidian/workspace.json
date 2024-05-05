@@ -11,11 +11,14 @@
             "id": "3cd7831a52238bdf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "Connection board.canvas",
+                "viewState": {
+                  "x": -284.37612443596106,
+                  "y": -210.522433520265,
+                  "zoom": -1.2290250019591211
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Connection board.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Connection board.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Connection board.canvas"
               }
             }
           }
@@ -148,8 +151,8 @@
   },
   "active": "3cd7831a52238bdf",
   "lastOpenFiles": [
-    "Connection board.canvas",
     "README.md",
+    "Connection board.canvas",
     "Curse_of_Strahd-Board/README.md",
     "Curse_of_Strahd-Board",
     "img/~ichter.tmp",

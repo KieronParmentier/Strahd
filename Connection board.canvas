@@ -21,7 +21,7 @@
 		{"id":"dbdd95a8c350ede5","type":"text","text":"Vasilka","x":1418,"y":-267,"width":142,"height":60,"color":"5"},
 		{"id":"3de2bad303fa4f58","type":"file","file":"img/The_Abbot.jpg","x":1815,"y":-779,"width":180,"height":241},
 		{"id":"49d7e6b89adc4ba3","type":"text","text":"The Abbot","x":1835,"y":-538,"width":140,"height":60,"color":"#ff0000"},
-		{"id":"4bd3bd822ec8ac9b","type":"file","file":"img/Lynda.jpg","x":-1236,"y":-480,"width":222,"height":220,"color":"4"},
+		{"id":"4bd3bd822ec8ac9b","type":"file","file":"img/Lydia.jpg","x":-1236,"y":-480,"width":222,"height":220,"color":"4"},
 		{"id":"644748e833a3c04c","type":"text","text":"Lydia","x":-1180,"y":-260,"width":110,"height":60,"color":"4"},
 		{"id":"4d54344a7807a2c6","type":"file","file":"img/Viktor.jpg","x":-1013,"y":-71,"width":203,"height":230,"color":"5"},
 		{"id":"69172a2ef5dd5169","type":"file","file":"img/Stella.jpg","x":-1198,"y":190,"width":128,"height":178,"color":"4"},
