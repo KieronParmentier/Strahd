@@ -4,21 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "45ff45f40f8031a7",
+        "id": "abe8efb9f6635dab",
         "type": "tabs",
         "children": [
           {
-            "id": "24e63809121750ea",
+            "id": "3cd7831a52238bdf",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Connection board.canvas",
-                "viewState": {
-                  "x": 466.19582704181175,
-                  "y": -1302.5555062850965,
-                  "zoom": -1.5293195326115627
-                }
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -72,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c46f753408ddf858",
@@ -89,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Connection board.canvas",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Connection board.canvas",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Connection board.canvas"
+                "file": "README.md"
               }
             }
           }
@@ -150,8 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "24e63809121750ea",
+  "active": "3cd7831a52238bdf",
   "lastOpenFiles": [
+    "Connection board.canvas",
+    "README.md",
     "Curse_of_Strahd-Board/README.md",
     "Curse_of_Strahd-Board",
     "img/~ichter.tmp",
@@ -172,7 +170,6 @@
     "img/Ludmilla.jpg",
     "img/Anastrasya.jpg",
     "img/Escher.jpg",
-    "Connection board.canvas",
     "img"
   ]
 }
